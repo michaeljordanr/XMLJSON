@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Gerador Numérico</string>
+    <string name="txt_min">Valor mínimo:</string>
+    <string name="txt_max">Valor máximo:</string>
+    <string name="txt_qtde">Quantidade:</string>
+    <string name="btn_gerar">Gerar</string>
+    <string name="txt_numeros_title">Números gerados</string>
+    <string name="txt_format">Formato:</string>
+    <string name="opt_xml">XML</string>
+    <string name="opt_json">JSON</string>
+    <string name="btn_detalhes">Detalhes</string>
+    <string name="txt_request">Requisição:</string>
+    <string name="txt_response">Resposta:</string>
+    <string name="txt_nodata">&lt;Sem dados&gt;</string>
+
+</resources>
